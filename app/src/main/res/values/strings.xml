@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">fabonacci</string>
+    <string name="input_length">Input</string>
+    <string name="show_result">Result</string>
+
+
+</resources>
